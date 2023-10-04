@@ -1,0 +1,6 @@
+Agora já vimos mais sobre as funções callback e o método map() que utiliza essas funções, 
+também vimos anteriormente sobre o método forEach().
+Selecione a alternativa que representa a diferença entre o método map() e forEach():
+
+O retorno do método.
+Certo! Enquanto o método forEach não tem um retorno, o método map() pode retornar um array se a função callback retornar algum valor.
